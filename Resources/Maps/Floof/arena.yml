@@ -82285,8 +82285,6 @@ entities:
       pos: 27.5,-23.5
       parent: 6747
     - type: DeviceList
-      configurators:
-      - invalid
       devices:
       - 21771
       - 22180
@@ -82713,8 +82711,6 @@ entities:
       pos: 24.5,-20.5
       parent: 6747
     - type: DeviceList
-      configurators:
-      - invalid
       devices:
       - 21771
       - 22180
